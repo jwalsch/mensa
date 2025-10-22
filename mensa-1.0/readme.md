@@ -8,3 +8,6 @@ chmod +x install.sh
 
 dann einfach mensa --today in die shell ausgeben 
 
+griebnizsee = --today_gr
+neues palais = --today_np 
+golm = --today_go
